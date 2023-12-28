@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+![WeatherApp](https://github.com/NabihUzcategui/Flutter-Weather-App/assets/99839506/ea358a60-932c-4947-8f5b-5c4e70fc11c9)
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
